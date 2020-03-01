@@ -14,5 +14,14 @@
 
 Velkommen til indkobslisten.
 
+
+<form action="LoginServlet" method="post">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="navn"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="kodeord"><br><br>
+    <input type="submit" value="login">
+</form>
+
 </body>
 </html>
