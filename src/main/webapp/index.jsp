@@ -16,6 +16,10 @@
 <h1>Velkommen til webshoppen.</h1>
 
 <br>
+${sessionScope.besked}
+<br>
+
+<br>
 ${requestScope.besked}
 <br>
 
