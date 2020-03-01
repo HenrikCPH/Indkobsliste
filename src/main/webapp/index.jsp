@@ -9,11 +9,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Indkobsliste</title>
+    <title>Webshoppen</title>
 </head>
 <body>
 
-<h1>Velkommen til indkobslisten.</h1>
+<h1>Velkommen til webshoppen.</h1>
 
 <br>
 ${requestScope.besked}
