@@ -18,6 +18,7 @@ Her kan du se listen af brugere, du kan også slette brugere her.
 <br>
 ----------------------------------------------------------------
 <br>
+----------------------------------------------------------------
 
 ${requestScope.besked}
 
