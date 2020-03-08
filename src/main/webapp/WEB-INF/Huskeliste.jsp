@@ -12,7 +12,7 @@
     <title>Huskeliste</title>
 </head>
 <body>
-1
+
 <br>
 ${sessionScope.besked}
 <br>
