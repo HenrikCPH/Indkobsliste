@@ -9,7 +9,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>ZSuperZ ZWebshoppenZ</title>
+    <title>ZSuperZ xxx ZWebshoppenZ</title>
 </head>
 <body>
 
