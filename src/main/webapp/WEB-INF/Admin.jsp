@@ -15,7 +15,6 @@
 
 
 Her kan du se listen af brugere, du kan også slette brugere her.
-Lone was here.
 <br>
 <br>
 
