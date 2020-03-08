@@ -18,9 +18,11 @@ Her kan du se listen af brugere, du kan også slette brugere her.
 <br>
 ----------------------------------------------------------------
 <br>
+<<<<<<< HEAD
 <br>
 1111111111111111111111111111111111111111
 <br>
+
 
 ${requestScope.besked}
 
